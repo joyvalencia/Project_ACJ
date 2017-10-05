@@ -19,6 +19,7 @@
                  {
                  echo "Bona nit!";
                  }
+                 echo "hola"
         ?> 
     </body>
 </html>
