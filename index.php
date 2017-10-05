@@ -19,7 +19,8 @@
                  {
                  echo "Bona nit!";
                  }
-                 echo "hola"
+                 echo "hola";
+                 echo "Adiós";
         ?> 
     </body>
 </html>
