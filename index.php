@@ -21,7 +21,7 @@
                  }
                  echo "hola";
                  echo "Adiós";
-                 echo "hola mon";
+                 echo "hola mon"+"hola fantasma";
         ?> 
     </body>
 </html>
