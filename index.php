@@ -19,9 +19,6 @@
                  {
                  echo "Bona nit!";
                  }
-                 echo "hola";
-                 echo "Adiós";
-                 echo "hola mon"+"hola, que tal fantasma?";
         ?> 
     </body>
 </html>
